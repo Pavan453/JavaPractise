@@ -3,5 +3,6 @@ public class DayTwoJava {
         System.out.println("Hello IntelliJ!");
         System.out.println("daythree");
         System.out.println("daythree Git hub edited");
+        System.out.println("daythree local changes");
     }
 }
