@@ -6,6 +6,6 @@ public class ClassRoom {
 
     public void clean() {
 
-        System.out.println("all the " +seatCount+ 'are clearned');
+        System.out.println("all the " +seatCount+ "are clearned");
     }
 }
