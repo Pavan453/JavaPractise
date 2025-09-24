@@ -9,6 +9,7 @@ public class PractiseProblems {
 
         }
 
+
         public void age(int age, String gender) {
 
             if ((age>0) && (age<18) ) {

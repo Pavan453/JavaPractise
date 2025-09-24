@@ -2,12 +2,12 @@ public class DummyRun {
 
     public static void main(String[] args) {
 
-        School sc1=new School();
+        School sc1=new School("sai");
         sc1.SchoolName ="bal bhavan" ;
         sc1.address="noida";
         sc1.principal="kiran koor";
 
-        Teacher t1=new Teacher();
+        Teacher t1=new Teacher("vivekanadha");
         t1.name= "anupama";
         t1.subject="maths";
 
